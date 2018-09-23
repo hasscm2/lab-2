@@ -1,0 +1,86 @@
+{
+	"name": [
+		"Carly",
+		"Christian",
+		"Kelly",
+		"Ryan",
+		"Taylor",
+		"Daniel",
+		"Emily"
+	],
+	"occupation": [
+		"lawyer",
+		"doctor",
+		"professor",
+		"sales associate",
+		"accountant",
+		"biologist",
+		"delivery driver"
+	],
+	"origin": [
+		"#name#, the #occupation#, was #always# #expecting# this #one# #trick#! #age# #type# helps #number# of people #get# #item# #descriptor#"
+	],
+	"always": [
+		"never",
+		"always",
+		"rarely",
+		"definitely"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"thinking of",
+		"imagining",
+		"wishing for"
+	],
+	"one": [
+		"one",
+		"great",
+		"secret",
+		"special",
+		"super",
+		"terrible",
+		"unbelievable"
+	],
+	"trick": [
+		"trick",
+		"technique",
+		"life hack",
+		"plan",
+		"idea"
+	],
+	"type": [
+		"medication",
+		"diet",
+		"superfood",
+		"tax refund",
+		"condition"
+	],
+	"get": [
+		"lose",
+		"gain",
+		"save",
+		"find"
+	],
+	"item": [
+		"money",
+		"weight",
+		"time"
+	],
+	"number": [
+		"hundreds",
+		"dozens",
+		"thousands",
+		"some"
+	],
+	"age": [
+		"New",
+		"Old",
+		"Recently discovered"
+	],
+	"descriptor": [
+		"they didn't know they had!",
+		"they never needed!",
+		"they always wanted!"
+	]
+}
